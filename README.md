@@ -69,12 +69,4 @@ Hey there! 👋 I'm Atharva Kharade, a Full Stack developer who loves to create 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ATHARVA279&repo=FEWD-CA2&theme=merko&hide_border=true" alt="Top Contributed Repo 3"/>
   </a>
 </div>
-
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ATHARVA279&icon=0&color=0" alt="Visit Count" />
-  </a>
-</div>
-
 </div>
