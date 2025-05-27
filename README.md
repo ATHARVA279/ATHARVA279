@@ -34,7 +34,7 @@ Hey there! 👋 I'm Atharva Kharade, a Full Stack developer who loves to create 
 </div>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nextjs,materialui,nodejs,express,python,cpp,java,redux,mongodb,git,github,gitlab,bash,netlify,vercel,vscode,figma,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nextjs,materialui,nodejs,express,python,cpp,java,redux,mongodb,git,github,gitlab,bash,netlify,vercel,vscode,figma,stackoverflow,docker,grafana,spring,supabase" />
 </p>
 
 <br>
@@ -42,7 +42,6 @@ Hey there! 👋 I'm Atharva Kharade, a Full Stack developer who loves to create 
 <h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> GitHub Stats and Top Languages <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATHARVA279&show_icons=true&hide_border=true&theme=synthwave" width="48%" alt="Atharva's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ATHARVA279&theme=synthwave&hide_border=true" width="48%" alt="Atharva's GitHub Streak"/>
 </p>
 
