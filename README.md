@@ -42,7 +42,7 @@ Hey there! 👋 I'm Atharva Kharade, a Full Stack developer who loves to create 
 <h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> GitHub Stats and Top Languages <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ATHARVA279&theme=synthwave&hide_border=true" width="48%" alt="Atharva's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ATHARVA279&theme=synthwave&hide_border=true&v=2" />
 </p>
 
 <p align="center">
