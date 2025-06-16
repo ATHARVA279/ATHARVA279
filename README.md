@@ -46,7 +46,7 @@ Hey there! 👋 I'm Atharva Kharade, a Full Stack developer who loves to create 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARVA279&layout=compact&hide_border=true&theme=synthwave&hide=assembly" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARVA279&layout=compact&hide_border=true&theme=synthwave" />
 </p>
 
 <h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> GitHub Trophies <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
