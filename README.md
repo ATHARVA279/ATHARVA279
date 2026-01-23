@@ -5,67 +5,94 @@
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <div align="center">
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+This+is+Atharva+Kharade!" alt="Hey, I'm Atharva Kharade and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=20&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+This+is+Atharva+Kharade!" alt="Hey, I'm Atharva Kharade and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
 <br>
-<p style="animation: fadein 2s; font-size: medium">
-Hey there! 👋 I'm Atharva Kharade, a Full Stack developer who loves to create new things.<br>- ✨ I spend my spare time building Web Applications because I want to continue growing and honing my skills 😄.
-  <br>- 📚 I'm currently focused on learning and exploring more about MERN stack along with that the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI), including neural networks and other related topics like deep learning, natural language processing (NLP), and computer vision. These topics are at the forefront of technological innovation and have the potential to revolutionize industries such as healthcare, finance, and autonomous systems.
-  <br>- 🤝 I'm always excited to collaborate with others and contribute to different projects. If you have a project that needs an extra set of hands or fresh ideas, feel free to reach out to me!
-  <br>- 🔧 I have experience working with various programming languages and technologies, ensuring that I can adapt and contribute effectively to your project's tech stack.
-  <br>- 📬 If you come across anything interesting in my projects or have a project you'd like me to collaborate on, please don't hesitate to get in touch. Let's create something awesome together!<br>
+<p style="animation: fadein 2s; font-size: medium; line-height: 1.6;">
+  I’m a Computer Science undergraduate and <strong>Full Stack Developer</strong> with hands-on experience building and scaling real-world software systems.
+  I enjoy designing <strong>end-to-end products</strong>—from clean, responsive user interfaces to reliable backend services—with a strong focus on clarity, performance, and maintainability.
 </p>
 
-<div align="center">
-<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/> Social Networks! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame1"/> </h2>
+<h3>🔍 What I’m Working On</h3>
+<ul>
+  <li>Deepening expertise in the <strong>MERN stack</strong></li>
+  <li>Building <strong>Spring Boot–based microservices</strong></li>
+  <li>Exploring <strong>AI-driven systems</strong>, including applied ML, LLM-powered tools, and retrieval-based architectures</li>
+</ul>
 
+<h3>💼 Experience</h3>
+<p><strong>Software Engineering Intern — Lowe’s India</strong></p>
+<ul>
+  <li>Delivered production-grade features</li>
+  <li>Improved backend reliability and test coverage</li>
+  <li>Strengthened CI/CD security and contributed to distributed systems</li>
+</ul>
+
+<h3>🚀 Interests</h3>
+<ul>
+  <li>AI-powered developer and learning tools</li>
+  <li>System design and scalable architectures</li>
+  <li>Projects that value ownership, learning, and long-term impact</li>
+</ul>
+
+<h3>🤝 Let’s Connect</h3>
+<p style="font-size: medium;">
+  I’m always open to collaborating on meaningful projects, open-source work, or product ideas.
+  If anything here aligns with your interests, feel free to reach out.
+</p>
+
+<br> 
+
+<div align="center">
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=20&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Social+Networks!"width="90%" align="middle"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
+</div>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+  
+<br>
+<br>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kharade-604944287/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATHARVA279)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atharva_279)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvak6363@gmail.com)
 </div>
 
-<br>
+<br> 
 <div align="center">
-<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> My Tech Stack! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=20&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=My+Tech+Stack!" width="90%" align="middle"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
 </div>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+</div>
+
+<br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nextjs,materialui,nodejs,express,python,cpp,java,redux,mongodb,git,github,gitlab,bash,netlify,vercel,vscode,figma,stackoverflow,docker,grafana,spring,supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,nextjs,materialui,redux,nodejs,express,python,cpp,java,spring,flask,fastapi,mongodb,postgresql,supabase,docker,kubernetes,aws,jenkins,git,github,gitlab,bash,linux,netlify,vercel,vscode,figma,stackoverflow,grafana" />
 </p>
 
 <br>
 
-<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> GitHub Stats and Top Languages <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ATHARVA279&theme=synthwave&hide_border=true&v=2" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARVA279&layout=compact&hide_border=true&theme=synthwave" />
-</p>
-
-<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> GitHub Trophies <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ATHARVA279&theme=darkhub&no-frame=true&column=4" alt="Atharva's GitHub Trophies"/>
-</p>
-
-<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> My Projects <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
-
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <div align="center">
-  <a href="https://github.com/ATHARVA279/NaadBrahma" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ATHARVA279&repo=NaadBrahma&theme=merko&hide_border=true" alt="Top Contributed Repo 2"/>
-  </a>
-  <a href="https://github.com/ATHARVA279/MERN-chatapp" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ATHARVA279&repo=MERN-chatapp&theme=merko&hide_border=true" alt="Top Contributed Repo 2"/>
-  </a>
-  <a href="https://github.com/ATHARVA279/FEWD-CA2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ATHARVA279&repo=FEWD-CA2&theme=merko&hide_border=true" alt="Top Contributed Repo 3"/>
-  </a>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=20&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=My+Github+Stats!"width="90%" align="middle"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
 </div>
-</div>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+</p>
+  <div>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Atharva279&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva279&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" width="35%" /></a>
+  <div>
