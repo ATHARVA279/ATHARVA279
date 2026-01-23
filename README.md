@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjE3em56b3NtaW96dG9rcXZnZDUydHplaXJmd2oydm02c3hkbXByMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="middle" alt="Banner" width="50%" height="40%" align="center"/>
+  <img src="./Heading.gif" align="middle" alt="Banner" width="100%" height="40%" align="center"/>
 </div>
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
