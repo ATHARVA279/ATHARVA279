@@ -96,3 +96,8 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Atharva279&theme=tokyonight" alt="GitHub Streak" width="50%" /></a>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva279&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" width="50%" /></a>
   <div>
+
+  <div align="center"> 
+    <br><br>
+<p style="font-size: medium"><b>Profile Views</b></p>
+<img src="https://komarev.com/ghpvc/?username=Atharva279" alt="GitHub profile views" />
